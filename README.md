@@ -14,9 +14,9 @@
 <h3 style="padding:20px">Conecte-se comigo no <a href=https://www.linkedin.com/in/rodrigo-de-souza-fernandes target="blank">Linkedin</a></h3>
 
 <div style="display: flex; align-items:center; flex-wrap:wrap; padding:20px">
-<p>&nbsp;<img style="padding:20px 0; width:90%"  src="https://github-readme-stats.vercel.app/api?username=rodrigodesouzafernandes&show_icons=true&locale=en" alt="rodrigodesouzafernandes" /></p>
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=rodrigodesouzafernandes&show_icons=true&locale=en" alt="rodrigodesouzafernandes" /></p>
 
-<p><img style="padding:20px 0; width:90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouzafernandes&" alt="rodrigodesouzafernandes" /></p>
+<p><img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouzafernandes&" alt="rodrigodesouzafernandes" /></p>
 </div>
 
 <h3 align="left">Tecnologias e ferramentas:</h3>
