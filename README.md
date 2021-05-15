@@ -18,8 +18,8 @@
 ---
 
 
-<span align="right" >&nbsp;<img  width="450" src="https://github-readme-stats.vercel.app/api?username=rodrigodesouzafernandes&show_icons=true&locale=en" alt="rodrigodesouzafernandes" /></span>
-<span ><img align="" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouzafernandes&" alt="rodrigodesouzafernandes" /></span>
+<span align="right" >&nbsp;<img  width="400" src="https://github-readme-stats.vercel.app/api?username=rodrigodesouzafernandes&show_icons=true&locale=en" alt="rodrigodesouzafernandes" /></span>
+<span ><img align="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodesouzafernandes&" alt="rodrigodesouzafernandes" /></span>
 
 ---
 
