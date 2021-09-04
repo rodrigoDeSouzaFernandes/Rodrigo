@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **Javascript, HTML, CSS, React, Redux, React Hooks, Context API, MySQL, MongoDB, NodeJS.**
 
-- 🤝 Estou buscando minha primeira oportunidade no mercado como **Dev Júnior**
+- 🤝 Estou trabalhando como **Desenvolvedor Front-end**
 
 - 💬 Me pergunte sobre **qualquer coisa, vou adorar conversar.**
 
