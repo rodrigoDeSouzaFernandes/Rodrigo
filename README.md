@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">**Trybe**</a>
 
-- 🌱 Estou aprendendo **Javascript, HTML, CSS, React, Redux, React Hooks, Context API, MySQL, MongoDB, NodeJS.**
+- 🌱 Tecnologias que estudo no momento **Javascript, HTML, CSS, React, Redux, React Hooks, Context API, MySQL, MongoDB, NodeJS, Python.**
 
 - 🤝 Estou trabalhando como **Desenvolvedor Front-end**
 
