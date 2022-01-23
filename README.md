@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, eu sou o Rodrigo</h1>
 <h3 align="center">Desenvolvedor Web Full Stack</h3>
 
-- 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">**Trybe**</a>
+- 🔭 Formado em Desenvolvimento Web Full stack pela <a href="https://www.betrybe.com/">**Trybe**</a>,
 
-- 🌱 Tecnologias que estudo no momento **Javascript, HTML, CSS, React, Redux, React Hooks, Context API, MySQL, MongoDB, NodeJS, Python.**
+- 🤝 Concluí com sucesso minha transição de carreira e estou trabalhando como **Desenvolvedor Front-end** na Castle Digital em minha primeira experiência na área de tecnologia.
 
-- 🤝 Estou trabalhando como **Desenvolvedor Front-end**
-
-- 💬 Me pergunte sobre **qualquer coisa, vou adorar conversar.**
+- 💬 Sou uma pessoa apaixonada por tecnologia, que sempre está em busca de mais conhecimento e disposto a encarar qualquer desafio que vir pela frente.
 
 - 📫 Como entrar em contato: **rodrigosfernandes2008@hotmail.com**
 
